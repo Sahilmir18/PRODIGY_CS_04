@@ -6,10 +6,10 @@ Ethical considerations and permissions are crucial involving keyloggers. I am no
 
 ### How to use the keylogger
 1. Download the main file
-2. Edit the file_path variable and replace it with your own path (choose the path where you want to save the recorded keystrokes eg. C:\\Users\\Username\\Downloads\\log.txt) Note: Use \\ between every transitions not \
+2. Edit the file_path variable and replace it with your own path (choose the path where you want to save the recorded keystrokes eg. C:\\Users\\Username\\Downloads\\log.txt) Note: Use Double \\ between every transitions not \
 3. Run the main python file
 4. Use ESC escape button to stop the logging
-5. Open the log.txt file to see logs
+5. Open the log.txt file to read logs
 
 ### Proof of Work
 
