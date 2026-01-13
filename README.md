@@ -12,6 +12,17 @@ Ethical considerations and permissions are crucial involving keyloggers. I am no
 5. Open the log.txt file to read logs
 
 ### Proof of Work
+Running the main program and it has started logging the keystrokes
+
+<img width="1600" height="141" alt="Screenshot 2026-01-13 181612" src="https://github.com/user-attachments/assets/bdb51b99-4365-4141-ab1b-fcfbc342309b" />
+
+Using Escape button to stop the program
+
+<img width="1679" height="190" alt="Screenshot 2026-01-13 181324" src="https://github.com/user-attachments/assets/9e3bfd5d-6e79-4872-94cb-923d84eaeccf" />
+
+Opening the log.txt to confirm it has logged 
+
+<img width="1920" height="1021" alt="Screenshot 2026-01-13 181404" src="https://github.com/user-attachments/assets/a6bd468e-87b4-4941-929c-d15573556176" />
 
 
 ### Proof of Work (Video)
