@@ -22,6 +22,11 @@ Using Escape button to stop the program
 
 Opening the log.txt to confirm it has logged 
 
+
+https://github.com/user-attachments/assets/c5b7c6c0-d2e4-4ba7-bceb-c0b5a2acc68a
+
+
+
 <img width="1920" height="1021" alt="Screenshot 2026-01-13 181404" src="https://github.com/user-attachments/assets/a6bd468e-87b4-4941-929c-d15573556176" />
 
 
